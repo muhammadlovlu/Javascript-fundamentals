@@ -1,4 +1,5 @@
 # Javascript-fundamentals
+
 ## core-concepts
 ####    1. var, let, const
 ####    2. Template string
@@ -11,15 +12,11 @@
 ####    9. Filter
 ####    10.Find
 ####    11.ForEach
+
 ## Array related Things      
 #### map finding all names in products catagory
 #### remove Item using filter 
-####
-####
-####
-####
-####
-####
+
 ## Destructuring and Three dots (spread operator)
 #### Array destructuring 
 #### The Rest Parameter And Spread Syntax
