@@ -11,21 +11,21 @@
 ####    9. Filter
 ####    10.Find
 ####    11.ForEach
-##       
+## Array related Things      
+#### map finding all names in products catagory
+#### remove Item using filter 
 ####
 ####
 ####
 ####
 ####
 ####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
-####
+## Destructuring and Three dots (spread operator)
+#### Array destructuring 
+#### The Rest Parameter And Spread Syntax
+#### Multiple Array Destructuring
+#### object destructuring
+#### Basic Object Destructuring
+#### Using a new Variable Name
+#### Explaining three dots (spread operator)
+
