@@ -26,3 +26,15 @@
 #### Using a new Variable Name
 #### Explaining three dots (spread operator)
 
+## 4 javascript shortcut
+
+#### if/else in a short way (ternery)
+####  string to number
+####  number to string
+####  Default parameter
+####
+####
+####
+####
+####
+####
